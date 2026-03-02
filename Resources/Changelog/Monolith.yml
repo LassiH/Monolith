@@ -17652,3 +17652,10 @@ Entries:
   id: 1945
   time: '2026-03-02T14:33:00.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3326
+- author: Ilya246
+  changes:
+    - type: Fix
+      message: Significantly reduced radar blip network usage.
+  id: 1946
+  time: '2026-03-02T18:25:53.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3329
