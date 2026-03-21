@@ -18475,3 +18475,18 @@ Entries:
   id: 2038
   time: '2026-03-21T08:16:08.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3502
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        All POIs except CC, Seva, and Trade Mall/Depots are now mobile and no
+        longer force anchored. Yes, this includes Halcyon and Helios.
+    - type: Add
+      message: Mini Station Anchor flatpacks to Flatpack vend.
+    - type: Fix
+      message: adds missing mini station anchor to MD
+    - type: Tweak
+      message: mini station anchors take longer to charge up than normal anchors
+  id: 2039
+  time: '2026-03-21T09:04:44.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3503
