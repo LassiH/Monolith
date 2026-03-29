@@ -19144,3 +19144,12 @@ Entries:
   id: 2108
   time: '2026-03-29T16:53:40.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3620
+- author: Ilya246
+  changes:
+    - type: Add
+      message: Added fun!
+    - type: Fix
+      message: Fixed POIs not moving.
+  id: 2109
+  time: '2026-03-29T17:15:36.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3624
