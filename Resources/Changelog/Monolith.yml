@@ -19275,3 +19275,14 @@ Entries:
   id: 2119
   time: '2026-03-30T16:41:45.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3641
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: Barozine's formulation was made way stronger!
+    - type: Tweak
+      message: >-
+        We did not dump Barozine reformulation byproduct anywhere. Do not
+        attempt to investigate.
+  id: 2120
+  time: '2026-03-30T17:07:39.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3642
