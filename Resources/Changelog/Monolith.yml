@@ -19559,3 +19559,10 @@ Entries:
   id: 2157
   time: '2026-04-09T17:40:26.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3735
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: 12 gauge damage buff
+  id: 2158
+  time: '2026-04-09T18:21:28.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3528
