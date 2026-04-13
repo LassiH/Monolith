@@ -19750,3 +19750,10 @@ Entries:
   id: 2180
   time: '2026-04-13T15:39:20.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3733
+- author: Ilya246
+  changes:
+    - type: Tweak
+      message: Turrets will now consider shooting through objects to attack you.
+  id: 2181
+  time: '2026-04-13T15:40:17.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3732
