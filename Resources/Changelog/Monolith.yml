@@ -19835,3 +19835,12 @@ Entries:
   id: 2189
   time: '2026-04-13T18:13:28.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3033
+- author: Mrrpip
+  changes:
+    - type: Add
+      message: >-
+        Adds stamps for various TSF and PDV command roles, alongside USSP and
+        Winter Solstice variants.
+  id: 2190
+  time: '2026-04-13T18:31:12.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3736
