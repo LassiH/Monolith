@@ -19681,3 +19681,13 @@ Entries:
   id: 2172
   time: '2026-04-12T16:16:54.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3766
+- author: lopsidedmanboobs
+  changes:
+    - type: Add
+      message: >-
+        Congratulations! Any ships entering a 512 meter range of active combat
+        do not require escalation and can be fired upon instantly now. Review
+        Conflict Rule 1 for more information.
+  id: 2173
+  time: '2026-04-13T09:48:20.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3778
