@@ -19691,3 +19691,10 @@ Entries:
   id: 2173
   time: '2026-04-13T09:48:20.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3778
+- author: Corrupt142
+  changes:
+    - type: Remove
+      message: the last Flashpoint has been shot dead in the colossus sector!
+  id: 2174
+  time: '2026-04-13T12:55:26.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3767
