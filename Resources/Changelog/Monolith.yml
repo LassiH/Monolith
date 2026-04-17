@@ -20032,3 +20032,32 @@ Entries:
   id: 2211
   time: '2026-04-17T16:56:15.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3812
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Asakim clothing slowdown resistance lowered from 100% to 20%
+    - type: Tweak
+      message: Asakim suit now has 20% slowdown.
+    - type: Tweak
+      message: >-
+        Lowered Asakim suit stam resist to 60% from 90%, to be in line with the
+        cybersun jugsuit.
+    - type: Tweak
+      message: Asakim suit now requires an Asakim brain to wear.
+    - type: Remove
+      message: >-
+        Brainswapping with Asakim is no longer considered an exploit in the
+        rules.
+    - type: Add
+      message: Clothing whitelist mechanics.
+    - type: Tweak
+      message: >-
+        Some Asakim abilities moved to new Asakim organs. Eyes give NVs, Lungs
+        give bonus damage, Heart can process 5 reagents at once.
+    - type: Tweak
+      message: >-
+        Removes handheld radio and storage implant from Asakim Loadout. Adds
+        Cognizine bottle and empty syringe.
+  id: 2212
+  time: '2026-04-17T17:00:31.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3798
