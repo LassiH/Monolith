@@ -20295,3 +20295,10 @@ Entries:
   id: 2236
   time: '2026-04-22T21:46:52.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3419
+- author: Mrrpip
+  changes:
+    - type: Fix
+      message: A label mishap for 90mm and 57mm cargo crates was fixed.
+  id: 2237
+  time: '2026-04-22T21:47:54.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3857
